@@ -1,0 +1,3 @@
+- `git config --global -l` посмотреть текущие настройки
+        - `git config --global user.name "Ivan Ivanov"`настройка имени
+        - `
